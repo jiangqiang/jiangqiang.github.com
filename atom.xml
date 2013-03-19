@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Leo Blog]]></title>
-  <link href="http://leo.com/atom.xml" rel="self"/>
-  <link href="http://leo.com/"/>
-  <updated>2013-03-19T12:04:37+08:00</updated>
-  <id>http://leo.com/</id>
+  <link href="http://jiangqiang.github.com/atom.xml" rel="self"/>
+  <link href="http://jiangqiang.github.com/"/>
+  <updated>2013-03-19T12:11:44+08:00</updated>
+  <id>http://jiangqiang.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[测试]]></title>
-    <link href="http://leo.com/blog/2013/03/19/first-post/"/>
+    <link href="http://jiangqiang.github.com/blog/2013/03/19/first-post/"/>
     <updated>2013-03-19T11:38:00+08:00</updated>
-    <id>http://leo.com/blog/2013/03/19/first-post</id>
+    <id>http://jiangqiang.github.com/blog/2013/03/19/first-post</id>
     <content type="html"><![CDATA[<p>content</p>
 ]]></content>
   </entry>

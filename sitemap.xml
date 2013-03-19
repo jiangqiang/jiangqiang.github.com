@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://leo.com/blog/2013/03/19/first-post/</loc>
+        <loc>http://jiangqiang.github.com/blog/2013/03/19/first-post/</loc>
         <lastmod>2013-03-19T11:39:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://leo.com/blog/archives/</loc>
+        <loc>http://jiangqiang.github.com/blog/archives/</loc>
         <lastmod>2013-03-19T11:39:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://leo.com/</loc>
+        <loc>http://jiangqiang.github.com/</loc>
         <lastmod>2013-03-19T11:39:26+08:00</lastmod>
     </url>
     <url>
-        <loc>http://leo.com/robots.txt</loc>
+        <loc>http://jiangqiang.github.com/robots.txt</loc>
         <lastmod>2013-03-19T11:22:04+08:00</lastmod>
     </url>
 </urlset>

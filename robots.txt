@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://leo.com/sitemap.xml 
+Sitemap: http://jiangqiang.github.com/sitemap.xml 
